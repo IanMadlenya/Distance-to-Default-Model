@@ -1,6 +1,6 @@
 # Distance-to-Default-Model
 
-# Naive Method.
+# Naive Method
 
 DDnaive ≡ (log(E + F/F) + (rit−1 − NaiveσV^2 /2)T)/NaiveσV *√T
 
